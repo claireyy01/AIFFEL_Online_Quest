@@ -1,4 +1,4 @@
-# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review 
 - 코더 : 김양희
 - 리뷰어 : 이슬
 
